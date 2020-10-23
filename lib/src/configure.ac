@@ -6,6 +6,7 @@ AC_PREREQ([2.69])
 AC_INIT(testadd, 1.0, jianzhang)
 
 AM_INIT_AUTOMAKE(testadd, 1.0)
+
 AC_CONFIG_SRCDIR([CppAddWrapper.cpp])
 AC_CONFIG_HEADERS([config.h])
 

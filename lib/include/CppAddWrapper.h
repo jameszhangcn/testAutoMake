@@ -2,7 +2,7 @@
 extern "C" {
 #endif
 
-int cpaddwrapper(int x, int y);
+int cppaddwrapper(int x, int y);
 
 #ifdef __cplusplus
 }

@@ -1,1 +1,0 @@
-int cppadd(int x, int y);
